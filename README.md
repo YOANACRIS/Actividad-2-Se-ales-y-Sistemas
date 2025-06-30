@@ -9,16 +9,8 @@ Este repositorio contiene una simulación en Python que demuestra:
 
 ## Archivos incluidos
 
-- `fourier_analysis.py`: Código principal de simulación.
-- `fourier_analysis.ipynb`: Versión interactiva del código (Jupyter).
-- `presentacion_fourier.pptx`: Plantilla de presentación PowerPoint.
+- `fourier_analysis.`: Código principal de simulación.
 
-## Requisitos
 
-- Python 3.x
-- Bibliotecas: numpy, matplotlib
 
-## Uso
-
-Ejecuta el archivo `.py` o abre el notebook para explorar los resultados.
 
