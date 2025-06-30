@@ -1,5 +1,4 @@
-# Crear contenido para el archivo README.md
-readme_content = """# Simulación y análisis de señales con la Transformada de Fourier
+# Simulación y análisis de señales con la Transformada de Fourier
 
 Este proyecto en MATLAB tiene como objetivo analizar señales en el dominio del tiempo y la frecuencia utilizando la Transformada de Fourier. Se desarrollaron diferentes señales y se aplicaron propiedades fundamentales de la FFT.
 
